@@ -1,17 +1,7 @@
-# Open Sans @font-face kit
+# Customized fork of Open Sans @font-face kit
 
-I split the SASS file, so the developer can decide which fonts and styles she or he really needs.
+We forked and customized [Open Sans @font-face kit](https://github.com/FontFaceKit/open-sans)
+to use the font [Open Sans by Steve Matteson](https://www.google.com/fonts/specimen/Open+Sans),
+licensed under Apache License, version 2.0, for OpenSlides.
 
-Installable via [Bower](http://twitter.github.com/bower/):
-```
-bower install open-sans-fontface
-```
-
-## Demo
-__Our repository:__ [http://fontfacekit.github.com/open-sans](http://fontfacekit.github.com/open-sans)
-
-__Google Web Fonts:__ [http://www.google.com/fonts/specimen/Open+Sans](http://www.google.com/fonts/specimen/Open+Sans)
-
-
-## Maintain your own font-face in FontFaceKit
-Contact @gustavohenke if you want to maintain your own font-face in this repository.
+Do not use this repository unless you know what you are doing.
